@@ -35,6 +35,7 @@ pip install geojson 2.5.0
 
 
 ##### 1. Perform data profiling and data cleaning on our original dataset: Motor Vehicle Collisions - Crashes
+ To run jupyter notebook **Refined_part1.ipynb**:
  We recommend using a virtual environment. Below are two examples for setting up a virtual environment
 ```
 # -- Create a new virtual environment
